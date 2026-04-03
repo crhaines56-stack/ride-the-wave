@@ -17,7 +17,7 @@ export default function SignupSection() {
     const data = new FormData(form)
 
     try {
-      const response = await fetch('https://formspree.io/f/PLACEHOLDER', {
+      const response = await fetch('https://formspree.io/f/xreoawgn', {
         method: 'POST',
         body: data,
         headers: { Accept: 'application/json' },
