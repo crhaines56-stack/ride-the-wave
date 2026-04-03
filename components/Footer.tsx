@@ -61,10 +61,10 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-[#1E293B] pt-6 flex flex-col md:flex-row items-center justify-between gap-3">
           <p className="text-[#334155] text-xs">
-            Northwest Austin • Free • Monthly • 🌊
+            Austin • Free • Monthly • 🌊
           </p>
           <p className="text-[#334155] text-xs">
-            © {new Date().getFullYear()} Ride the Wave AI. Made with ❤️ in northwest Austin.
+            © {new Date().getFullYear()} Ride the Wave AI. Made with ❤️ in Austin.
           </p>
         </div>
       </div>
