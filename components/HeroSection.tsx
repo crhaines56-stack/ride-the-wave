@@ -57,7 +57,7 @@ export default function HeroSection() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.35 }}
-          className="text-2xl md:text-4xl lg:text-5xl font-bold text-white mb-4 leading-tight"
+          className="text-xl md:text-3xl lg:text-5xl font-bold text-white mb-4 leading-tight whitespace-nowrap"
           style={{ fontFamily: 'Plus Jakarta Sans, sans-serif' }}
         >
           Ride the wave.{' '}
