@@ -25,7 +25,7 @@ export default function EventSection() {
             <span className="text-2xl">🌊</span>
             <div>
               <div className="text-[#0F172A] font-bold text-sm uppercase tracking-wider">
-                Northwest Austin
+                Steiner Ranch | Lakeway | River Place | Four Points | Bee Caves
               </div>
               <div className="text-[#0F172A] text-xs opacity-70">Rotating venues — TBD</div>
             </div>
@@ -57,7 +57,7 @@ export default function EventSection() {
                   </div>
                   <div className="flex items-center gap-3 text-[#94A3B8]">
                     <span className="text-[#06B6D4] text-lg">📍</span>
-                    <span>Northwest Austin (venue TBD)</span>
+                    <span>Steiner Ranch | Lakeway | River Place | Four Points | Bee Caves</span>
                   </div>
                   <div className="flex items-center gap-3 text-[#94A3B8]">
                     <span className="text-[#06B6D4] text-lg">💰</span>
@@ -86,7 +86,7 @@ export default function EventSection() {
                     Steiner Ranch
                   </p>
                   <p className="text-[#64748B] text-sm mb-1">Lakeway • River Place</p>
-                  <p className="text-[#64748B] text-sm">Four Points • Northwest Austin</p>
+                  <p className="text-[#64748B] text-sm">Steiner Ranch | Lakeway | River Place | Four Points | Bee Caves</p>
 
                   <div className="mt-6 pt-6 border-t border-[#1E293B]">
                     <p className="text-[#06B6D4] font-bold text-sm">
