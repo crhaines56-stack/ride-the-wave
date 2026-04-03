@@ -61,7 +61,7 @@ export default function FounderSection() {
             {/* Shared story */}
             <div className="space-y-4 text-[#94A3B8] leading-relaxed">
               <p>
-                Chris and Doug are northwest Austin neighbors who kept having the same conversation — at the coffee shop, at school pickup, at neighborhood events:
+                Chris and Doug are Steiner Ranch neighbors who kept having the same conversation — at the coffee shop, at school pickup, at neighborhood events:
               </p>
               <blockquote className="border-l-2 border-[#06B6D4] pl-4 text-white italic">
                 "I know AI is important, but I don't know where to start."
