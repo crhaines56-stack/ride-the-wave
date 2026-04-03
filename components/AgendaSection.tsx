@@ -15,7 +15,7 @@ const agenda = [
   {
     time: '0:15',
     label: 'Welcome & Mission',
-    desc: 'Quick hello from Chris. Why we\'re here, who we are, what\'s new.',
+    desc: 'A quick intro from the founders — why we\'re here, who we are, what\'s new.',
     color: '#06B6D4',
     icon: '🎯',
   },
