@@ -5,20 +5,20 @@ export const metadata: Metadata = {
   icons: {
     icon: '/favicon.svg',
   },
-  title: 'Ride the Wave AI — Northwest Austin AI Meetup',
-  description: 'A free monthly AI meetup for Steiner Ranch, Lakeway, River Place & Four Points. Neighbors helping neighbors navigate AI — practically, together.',
-  keywords: ['AI meetup', 'Austin AI', 'northwest Austin', 'Steiner Ranch', 'Lakeway', 'artificial intelligence', 'community'],
+  title: 'Ride the Wave AI — Austin AI Meetup',
+  description: 'A free monthly AI meetup for Steiner Ranch, Lakeway, River Place, Four Points & Bee Caves. Neighbors helping neighbors navigate AI — together.',
+  keywords: ['AI meetup', 'Austin AI', 'Steiner Ranch', 'Lakeway', 'Four Points', 'Bee Caves', 'artificial intelligence', 'community'],
   authors: [{ name: 'Chris Haines' }],
   openGraph: {
-    title: 'Ride the Wave AI — Northwest Austin AI Meetup',
-    description: 'A free monthly AI meetup for neighbors in northwest Austin. No jargon. No sales pitches. Just practical AI you can use Monday morning.',
+    title: 'Ride the Wave AI — Austin AI Meetup',
+    description: 'A free monthly AI meetup for Steiner Ranch, Lakeway, River Place, Four Points & Bee Caves. Where community meets competitive advantage.',
     type: 'website',
     locale: 'en_US',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Ride the Wave AI — Northwest Austin AI Meetup',
-    description: 'Free monthly AI meetup in northwest Austin. Neighbors helping neighbors navigate AI.',
+    title: 'Ride the Wave AI — Austin AI Meetup',
+    description: 'Free monthly AI meetup in Austin. Where community meets competitive advantage.'}]}
   },
 }
 
