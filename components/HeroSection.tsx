@@ -75,7 +75,6 @@ export default function HeroSection() {
           <br />
           <span className="font-bold text-white">Steiner Ranch&nbsp;&nbsp;|&nbsp;&nbsp;Lakeway&nbsp;&nbsp;|&nbsp;&nbsp;River Place&nbsp;&nbsp;|&nbsp;&nbsp;Four Points&nbsp;&nbsp;|&nbsp;&nbsp;Bee Caves</span>
           <br />
-          <br />
           Neighbors helping neighbors figure out AI — together.
         </motion.p>
 
