@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Ride the Wave AI — Austin AI Meetup',
-    description: 'Free monthly AI meetup in Austin. Where community meets competitive advantage.'}]}
+    description: 'Free monthly AI meetup in Austin. Where community meets competitive advantage.',
   },
 }
 
