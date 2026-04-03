@@ -65,7 +65,7 @@ export default function FounderSection() {
                     border: '2px solid rgba(6,182,212,0.3)',
                   }}
                 >
-                  🌊
+                  🏄
                 </div>
                 <span className="text-xl font-bold text-white" style={{ fontFamily: 'Plus Jakarta Sans, sans-serif' }}>Lynn Duke</span>
               </div>
