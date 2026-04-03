@@ -56,12 +56,25 @@ export default function FounderSection() {
                 </div>
                 <span className="text-xl font-bold text-white" style={{ fontFamily: 'Plus Jakarta Sans, sans-serif' }}>Doug Vigliano</span>
               </div>
+              <div className="text-[#334155] text-2xl font-light">&</div>
+              <div className="flex items-center gap-3">
+                <div
+                  className="w-14 h-14 rounded-2xl flex items-center justify-center text-2xl flex-shrink-0"
+                  style={{
+                    background: 'linear-gradient(135deg, #1E3A5F 0%, #0F172A 100%)',
+                    border: '2px solid rgba(6,182,212,0.3)',
+                  }}
+                >
+                  🌊
+                </div>
+                <span className="text-xl font-bold text-white" style={{ fontFamily: 'Plus Jakarta Sans, sans-serif' }}>Lynn Duke</span>
+              </div>
             </div>
 
             {/* Shared story */}
             <div className="space-y-4 text-[#94A3B8] leading-relaxed">
               <p>
-                Chris and Doug are Steiner Ranch neighbors who kept having the same conversation — at the coffee shop, at school pickup, at neighborhood events:
+                Chris, Doug, and Lynn are Austin neighbors who kept having the same conversation — at the coffee shop, at school pickup, at neighborhood events:
               </p>
               <blockquote className="border-l-2 border-[#06B6D4] pl-4 text-white italic">
                 "I know AI is important, but I don't know where to start."
