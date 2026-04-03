@@ -71,7 +71,7 @@ export default function WhoSection() {
             className="text-3xl md:text-4xl font-bold text-white mb-4"
             style={{ fontFamily: 'Plus Jakarta Sans, sans-serif' }}
           >
-            This is for you if...
+            Who is this for?
           </h2>
 
         </motion.div>
