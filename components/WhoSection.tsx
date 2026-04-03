@@ -73,9 +73,7 @@ export default function WhoSection() {
           >
             This is for you if...
           </h2>
-          <p className="text-[#94A3B8] text-lg max-w-2xl mx-auto">
-            No jargon. No sales pitches. Just practical AI you can use Monday morning.
-          </p>
+
         </motion.div>
 
         {/* Grid */}
