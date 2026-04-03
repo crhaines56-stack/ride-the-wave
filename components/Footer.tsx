@@ -13,18 +13,7 @@ export default function Footer() {
             <p className="text-[#64748B] text-sm leading-relaxed max-w-sm">
               To ensure our community rides the AI wave and is not crushed by it.
             </p>
-            <p className="text-[#475569] text-xs mt-3">
-              A{' '}
-              <a
-                href="https://forgeagency.ai"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-[#F59E0B] hover:text-[#FCD34D] transition-colors"
-              >
-                Forge Agency
-              </a>{' '}
-              community initiative
-            </p>
+
           </div>
 
           {/* Links */}
@@ -53,14 +42,7 @@ export default function Footer() {
               >
                 <span>🏘️</span> Nextdoor
               </a>
-              <a
-                href="https://forgeagency.ai"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2 text-[#64748B] hover:text-[#F59E0B] text-sm transition-colors"
-              >
-                <span>⚡</span> Forge Agency
-              </a>
+
             </div>
           </div>
         </div>

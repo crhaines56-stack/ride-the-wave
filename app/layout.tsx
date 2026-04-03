@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Ride the Wave AI — Northwest Austin AI Meetup',
   description: 'A free monthly AI meetup for Steiner Ranch, Lakeway, River Place & Four Points. Neighbors helping neighbors navigate AI — practically, together.',
   keywords: ['AI meetup', 'Austin AI', 'northwest Austin', 'Steiner Ranch', 'Lakeway', 'artificial intelligence', 'community'],
-  authors: [{ name: 'Chris Haines', url: 'https://forgeagency.ai' }],
+  authors: [{ name: 'Chris Haines' }],
   openGraph: {
     title: 'Ride the Wave AI — Northwest Austin AI Meetup',
     description: 'A free monthly AI meetup for neighbors in northwest Austin. No jargon. No sales pitches. Just practical AI you can use Monday morning.',
