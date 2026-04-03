@@ -52,9 +52,8 @@ export default function MissionSection() {
               className="text-2xl md:text-3xl lg:text-4xl font-bold text-white leading-tight max-w-3xl mx-auto"
               style={{ fontFamily: 'Plus Jakarta Sans, sans-serif' }}
             >
-              To ensure our community{' '}
-              <span className="text-[#06B6D4]">rides the AI wave</span>{' '}
-              and is not crushed by it.
+              Where community meets{' '}
+              <span className="text-[#06B6D4]">competitive advantage.</span>
             </blockquote>
             <div className="inline-block text-[#06B6D4] text-opacity-60 text-6xl font-serif mt-2">"</div>
           </div>
