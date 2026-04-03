@@ -71,8 +71,11 @@ export default function HeroSection() {
           transition={{ duration: 0.7, delay: 0.45 }}
           className="text-lg md:text-xl text-[#94A3B8] max-w-2xl mx-auto mb-10"
         >
-          A free monthly AI meetup for Steiner Ranch, Lakeway, River Place &amp; Four Points.
-          <br className="hidden md:block" />
+          A free monthly AI meetup for:
+          <br />
+          <span className="font-bold text-white">Steiner Ranch&nbsp;&nbsp;|&nbsp;&nbsp;Lakeway&nbsp;&nbsp;|&nbsp;&nbsp;River Place&nbsp;&nbsp;|&nbsp;&nbsp;Four Points&nbsp;&nbsp;|&nbsp;&nbsp;Bee Caves</span>
+          <br />
+          <br />
           Neighbors helping neighbors figure out AI — together.
         </motion.p>
 
