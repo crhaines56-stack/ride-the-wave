@@ -91,14 +91,7 @@ export default function HeroSection() {
               🌊 Join the Wave
             </span>
           </button>
-          <a
-            href="https://www.meetup.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="px-8 py-4 border border-white border-opacity-20 text-white font-medium rounded-full text-lg hover:border-opacity-50 hover:bg-white hover:bg-opacity-5 transition-all duration-200"
-          >
-            View on Meetup.com
-          </a>
+
         </motion.div>
 
         {/* Scroll indicator */}
