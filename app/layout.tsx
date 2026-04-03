@@ -14,13 +14,13 @@ export const metadata: Metadata = {
     description: 'A free monthly AI meetup for Steiner Ranch, Lakeway, River Place, Four Points & Bee Caves. Where community meets competitive advantage.',
     type: 'website',
     locale: 'en_US',
-    images: [{ url: '/og', width: 1200, height: 630, alt: 'Ride the Wave AI' }],
+    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Ride the Wave AI' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Ride the Wave AI — Austin AI Meetup',
     description: 'Free monthly AI meetup in Austin. Where community meets competitive advantage.',
-    images: ['/og'],
+    images: ['/og-image.png'],
   },
 }
 
