@@ -60,8 +60,8 @@ export default function HeroSection() {
           className="text-2xl md:text-4xl lg:text-5xl font-bold text-white mb-4 leading-tight"
           style={{ fontFamily: 'Plus Jakarta Sans, sans-serif' }}
         >
-          Ride the wave.{' '}
-          <span className="text-[#06B6D4]">Don't get buried by it.</span>
+          Where community meets{' '}
+          <span className="text-[#06B6D4]">competitive advantage.</span>
         </motion.h1>
 
         {/* Subheadline */}
