@@ -39,7 +39,7 @@ export default function HeroSection() {
           className="inline-flex items-center gap-2 bg-[#06B6D4] bg-opacity-10 border border-[#06B6D4] border-opacity-30 text-[#06B6D4] text-sm font-medium px-4 py-2 rounded-full mb-8"
         >
           <span>🌊</span>
-          <span>Northwest Austin • Free • Monthly</span>
+          <span>Four Points • Free • Monthly</span>
         </motion.div>
 
         {/* Logo Large */}
