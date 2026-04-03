@@ -61,7 +61,7 @@ export default function HeroSection() {
           style={{ fontFamily: 'Plus Jakarta Sans, sans-serif' }}
         >
           Ride the wave.{' '}
-          <span className="text-[#06B6D4]">Don't get buried by it.</span>
+          <span className="text-[#06B6D4]">Don't get crushed by it.</span>
         </motion.h1>
 
         {/* Subheadline */}
