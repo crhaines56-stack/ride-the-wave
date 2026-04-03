@@ -36,14 +36,7 @@ export default function Footer() {
               Connect
             </h4>
             <div className="space-y-2">
-              <a
-                href="https://www.meetup.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2 text-[#64748B] hover:text-[#06B6D4] text-sm transition-colors"
-              >
-                <span>🔗</span> Meetup.com
-              </a>
+
               <a
                 href="https://www.facebook.com"
                 target="_blank"

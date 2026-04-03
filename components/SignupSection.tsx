@@ -136,18 +136,7 @@ export default function SignupSection() {
             </form>
           )}
 
-          {/* Secondary CTA */}
-          <div className="mt-6 text-center">
-            <p className="text-[#64748B] text-sm mb-3">Or follow us on Meetup</p>
-            <a
-              href="https://www.meetup.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 px-6 py-3 border border-[#334155] text-[#94A3B8] rounded-full hover:border-[#06B6D4] hover:text-[#06B6D4] transition-all duration-200 text-sm font-medium"
-            >
-              Join on Meetup.com →
-            </a>
-          </div>
+
         </motion.div>
       </div>
     </section>

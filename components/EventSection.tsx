@@ -65,16 +65,7 @@ export default function EventSection() {
                   </div>
                 </div>
 
-                <div className="flex flex-col sm:flex-row gap-3">
-                  <a
-                    href="https://www.meetup.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-center justify-center gap-2 px-6 py-3 bg-[#E94057] text-white font-bold rounded-full hover:bg-[#c73347] transition-all duration-200 hover:scale-105"
-                  >
-                    <span>🔗</span> RSVP on Meetup
-                  </a>
-                </div>
+
               </div>
 
               {/* Right: visual card */}
