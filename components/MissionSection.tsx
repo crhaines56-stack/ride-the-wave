@@ -66,7 +66,7 @@ export default function MissionSection() {
               AI is moving fast — faster than most of us can keep up with. And if you're a small business owner, a freelancer, or just a curious neighbor in northwest Austin, it can feel overwhelming.
             </p>
             <p className="text-[#94A3B8] text-lg leading-relaxed">
-              Ride the Wave AI exists to change that. We meet monthly to share what's working, demo real tools, and help each other navigate this shift — practically, together, without the jargon.
+              Ride the Wave AI exists to change that. We meet monthly to share what's working, demo real tools, and help each other navigate this shift — practically, together.
             </p>
           </div>
         </FadeIn>
