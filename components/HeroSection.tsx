@@ -67,8 +67,9 @@ export default function HeroSection() {
         {/* Subheadline */}
         <motion.p
           initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.7, delay: 0.45 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, amount: 0.5 }}
+          transition={{ duration: 0.7 }}
           className="text-lg md:text-xl text-[#94A3B8] max-w-2xl mx-auto mb-10"
         >
           A free monthly AI meetup for:
